@@ -1,35 +1,26 @@
 # SQL-Datawarehouse-Project
-A comprehensive guide to building a modern data warehouse with SQL Server, including ETL processes, data modelling, and analytics.
+
+This project showcases a comprehensive data warehousing and analytics solution, spanning the development of a data warehouse to the generation of actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ----
 
-## 🏗️ Data Architecture
-The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
-
-<img width="1341" height="690" alt="image" src="https://github.com/user-attachments/assets/3f69f175-d669-4350-90b8-3ce24c717ee0" />
-
-1. Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into the SQL Server Database.
-2. Silver Layer: This layer includes data cleansing, standardisation, and normalisation processes to prepare data for analysis.
-3. Gold Layer: Houses business-ready data modelled into a star schema required for reporting and analytics.
-
-------
-
 ## 📖 Project Overview
+
 This project involves:
 
-1. Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
+1. Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture; Bronze, Silver, and Gold layers.
 2. ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
 3. Data Modelling: Developing fact and dimension tables optimised for analytical queries.
 4. Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+🎯 This repository showcases expertise in:
 
-SQL Development
-Data Architect
-Data Engineering
-ETL Pipeline Developer
-Data Modeling
-Data Analytics
+- SQL Development
+- Data Architecturing
+- Data Engineering
+- ETL Pipeline Developer
+- Data Modelling
+- Data Analytics
 
 ---
 
@@ -48,6 +39,19 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
+
+## 🏗️ Data Architecture
+The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
+
+<img width="1341" height="690" alt="image" src="https://github.com/user-attachments/assets/3f69f175-d669-4350-90b8-3ce24c717ee0" />
+
+
+1. Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into the SQL Server Database.
+2. Silver Layer: This layer includes data cleansing, standardisation, and normalisation processes to prepare data for analysis.
+3. Gold Layer: Houses business-ready data modelled into a star schema required for reporting and analytics.
+
+------
+
 
 ### BI: Analytics & Reporting (Data Analysis)
 

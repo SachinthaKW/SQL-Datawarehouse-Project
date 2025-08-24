@@ -67,3 +67,15 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
+
+## 🌟 About Me
+Hi there! I'm Sachintha. I’m a BI professional and I build data-driven solutions that empower leaders to make better, faster decisions. Explore my work here to see how I turn data into actionable insights.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/cc4da080-1960-4b34-a154-31d37d75afa4" />
+<div id="badges">
+  <a href="https://medium.com/@BI.Diaries">
+    <img width="99" height="28" alt="image" src="https://github.com/user-attachments/assets/887aad7f-412c-45dc-8557-646cc9473f2a" />
+  </a>
+</div>

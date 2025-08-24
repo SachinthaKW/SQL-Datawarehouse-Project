@@ -73,8 +73,10 @@ Hi there! I'm Sachintha. I’m a BI professional and I build data-driven solutio
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/cc4da080-1960-4b34-a154-31d37d75afa4" />
 <div id="badges">
+  <a href="https://www.linkedin.com/in/sachintha-kahawewithana/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> </div><div id="badges">
   <a href="https://medium.com/@BI.Diaries">
     <img width="99" height="28" alt="image" src="https://github.com/user-attachments/assets/887aad7f-412c-45dc-8557-646cc9473f2a" />
   </a>

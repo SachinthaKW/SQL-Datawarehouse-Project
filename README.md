@@ -77,7 +77,6 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
   <a href="https://www.linkedin.com/in/sachintha-kahawewithana/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
-  id="badges">
   <a href="https://medium.com/@BI.Diaries">
     <img width="99" height="28" alt="image" src="https://github.com/user-attachments/assets/887aad7f-412c-45dc-8557-646cc9473f2a" />
   </a>
